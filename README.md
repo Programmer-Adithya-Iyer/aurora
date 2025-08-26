@@ -44,4 +44,4 @@ Feel free to **read, explore, and follow along** — but please don’t submit p
 
 ## 👩‍💻 Development Status
 Aurora is currently under active development.  
-Follow the journey here: [Aurora Blog](https://aurora.hashnode.dev)
+Follow the journey here: [Aurora Blog](https://auroraverse.hashnode.dev)
